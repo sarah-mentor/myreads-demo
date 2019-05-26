@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myreads-demo/static/css/main.193d0a39.chunk.css",
+    "main.js": "/myreads-demo/static/js/main.388129cd.chunk.js",
+    "main.js.map": "/myreads-demo/static/js/main.388129cd.chunk.js.map",
+    "runtime~main.js": "/myreads-demo/static/js/runtime~main.2af49409.js",
+    "runtime~main.js.map": "/myreads-demo/static/js/runtime~main.2af49409.js.map",
+    "static/js/2.2b68f7bd.chunk.js": "/myreads-demo/static/js/2.2b68f7bd.chunk.js",
+    "static/js/2.2b68f7bd.chunk.js.map": "/myreads-demo/static/js/2.2b68f7bd.chunk.js.map",
+    "index.html": "/myreads-demo/index.html",
+    "precache-manifest.4822ca4c485ef11ce77b7d763aef9b64.js": "/myreads-demo/precache-manifest.4822ca4c485ef11ce77b7d763aef9b64.js",
+    "service-worker.js": "/myreads-demo/service-worker.js",
+    "static/css/main.193d0a39.chunk.css.map": "/myreads-demo/static/css/main.193d0a39.chunk.css.map",
+    "static/media/App.css": "/myreads-demo/static/media/arrow-drop-down.78c6f53b.svg",
+    "static/media/stacked-books.jpg": "/myreads-demo/static/media/stacked-books.51adb8eb.jpg"
+  }
+}
